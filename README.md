@@ -18,7 +18,7 @@ To fulfill my interest, I completed several specialized courses at partner unive
 
 | Exchange Period | Institution | Program / Department | Note |
 | :----: | :---------: | :------------------: | :---: |
-| 2025-fall | **[🇫🇷 Institut polytechnique de Grenoble - Université Grenoble Alpes](https://www.grenoble-inp.fr/) (Grenoble INP-UGA)** | [Master of Applied Mathematics](https://applied-math-master.imag.fr/) (M1-AM) and [Master of Science in Industrial and Applied Mathematics](https://msiam.imag.fr/) (M2-SIAM) on [Ensimag School](https://ensimag.grenoble-inp.fr/) | Master's Program |
+| 2025-fall | **[🇫🇷 Institut polytechnique de Grenoble - Université Grenoble Alpes](https://www.grenoble-inp.fr/) (Grenoble INP-UGA)** | [Master of Applied Mathematics (M1-AM)](https://applied-math-master.imag.fr/) & [Master of Science in Industrial and Applied Mathematics (M2-SIAM)](https://msiam.imag.fr/) @ [Ensimag School](https://ensimag.grenoble-inp.fr/) | Master's Program |
 | 2025-spring | **[🇰🇷 Seoul National University](https://www.snu.ac.kr/) (SNU)** | [Department of Statistics](https://stat.snu.ac.kr/) | Undergraduate |
 | 2022-summer | **[🇰🇷 Seoul National University](https://www.snu.ac.kr/) (SNU)** | [Department of Mathematical Sciences](https://www.math.snu.ac.kr/) | Undergraduate |
 | 2021-winter | **[🇰🇷 Seoul National University](https://www.snu.ac.kr/) (SNU)** | [Department of Economics](https://econ.snu.ac.kr/) | Undergraduate |
@@ -83,9 +83,9 @@ The coursework is organized into three foundational pillars (Stat, AI and Math) 
 
 ### Data Science
 
-4. [DGIST-BE202] Introduction to Data Science
-5. [DGIST-BE201] Artificial Intelligence Basics
-6. [DGIST-MECH307] Introduction to Artificial Intelligence
+1. [DGIST-BE202] Introduction to Data Science
+2. [DGIST-BE201] Artificial Intelligence Basics
+3. [DGIST-MECH307] Introduction to Artificial Intelligence
 
 ### CS
 
@@ -111,20 +111,3 @@ The coursework is organized into three foundational pillars (Stat, AI and Math) 
 3. [Coursera] Risk Management Specialization
 4. [Coursera] Credit Risk Modeling & Analysis Mastery Specialization
 
-```text
-       [Stat]                 [DS]                  [Math]
-         │                      │                       │
-         ├─ Linear Algebra      ├─ Prob & Stat          ├─ Programming
-         ├─ Calculus            ├─ Math Statistics      ├─ Data Structures
-         │                      │                       │
-         ▼                      ▼                       ▼
-   [Optimization]      [Causal Inference]       [Machine Learning]
-         │                      │                       │
-         └──────────────────────┼───────────────────────┘
-                                ▼
-           [ Intelligent Financial Data Analytics ]
-             ├─ Advanced Statistical Modeling
-             ├─ Deep Learning / Graph Neural Networks (GNN)
-             ├─ Causal Recommendation Systems
-             └─ UGRP: Social Network & Graph Modeling
-```
