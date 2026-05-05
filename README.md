@@ -18,7 +18,7 @@ To fulfill my interest, I completed several specialized courses at partner unive
 
 | Exchange Period | Institution | Program / Department | Note |
 | :----: | :---------: | :------------------: | :---: |
-| 2025-fall | **[🇫🇷 Institut polytechnique de Grenoble - Université Grenoble Alpes (Grenoble INP-UGA)](https://www.grenoble-inp.fr/)** | - [Master of Applied Mathematics (M1-AM)](https://applied-math-master.imag.fr/) <br> - [Master of Science in Industrial and Applied Mathematics (M2-SIAM)](https://msiam.imag.fr/) <br> @ [Ensimag School](https://ensimag.grenoble-inp.fr/) | Master's Program |
+| 2025-fall | **[🇫🇷 Institut polytechnique de Grenoble - Université Grenoble Alpes (Grenoble INP-UGA)](https://www.grenoble-inp.fr/)** | * [Master of Applied Mathematics (M1-AM)](https://applied-math-master.imag.fr/) <br>* [Master of Science in Industrial and Applied Mathematics (M2-SIAM)](https://msiam.imag.fr/) <br>@ [Ensimag School](https://ensimag.grenoble-inp.fr/) | Master's Program |
 | 2025-spring | **[🇰🇷 Seoul National University (SNU)](https://www.snu.ac.kr/)** | [Department of Statistics](https://stat.snu.ac.kr/) | Undergraduate |
 | 2022-summer | **[🇰🇷 Seoul National University (SNU)](https://www.snu.ac.kr/)** | [Department of Mathematical Sciences](https://www.math.snu.ac.kr/) | Undergraduate |
 | 2021-winter | **[🇰🇷 Seoul National University (SNU)](https://www.snu.ac.kr/)** | [Department of Economics](https://econ.snu.ac.kr/) | Undergraduate |
