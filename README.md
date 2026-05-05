@@ -1,13 +1,13 @@
 # 🎓 Undergraduate Coursework Archive
 
 Welcome to my undergraduate coursework repository.  
-This repository serves as a personal archive for the source codes, assignments, reports, and projects I have completed in my undergraduate period. [2020.02-2027.01]
+This repository serves as a personal archive for the source codes, assignments, reports, and projects I have completed in my undergraduate period. (2020.02-2027.01)
 
 It also provides overviews and structural roadmaps of my **Student-Designed Track**s decided by council:
 
 > [!NOTE]  
-> - Computational Statistics [Bachelor of Science]
-> - Financial Data Science [Bachelor of Engineering, Pending Approval]
+> - **Computational Statistics** [Bachelor of Science]
+> - **Financial Data Science** [Bachelor of Engineering, Pending Approval]
 
 ## 🌐 Academic Exchange Program
 
