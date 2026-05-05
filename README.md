@@ -6,8 +6,8 @@ This repository serves as a personal archive for the source codes, assignments, 
 It also provides overviews and structural roadmaps of my **Student-Designed Track**s decided by council:
 
 > [!NOTE]  
-> Computational Statistics [Bachelor of Science]
-> Financial Data Science [Bachelor of Engineering, Pending Approval]
+> - Computational Statistics [Bachelor of Science]
+> - Financial Data Science [Bachelor of Engineering, Pending Approval]
 
 ## 🌐 Academic Exchange Program
 
