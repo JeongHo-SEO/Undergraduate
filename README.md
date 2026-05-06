@@ -67,7 +67,7 @@ Undergraduate/
 ## 🌳 Course-work
 The coursework is organized into three foundational pillars (Stat, AI and Math) that converge into advanced, high-level domains.
 
-### Statistics
+### Statistics (Stat)
 
 1. [DGIST-BS202] Introduction to Probability and Mathematical Statistics with R
 2. [SNU-326.311 001] Mathematical Statistics l
@@ -81,20 +81,23 @@ The coursework is organized into three foundational pillars (Stat, AI and Math) 
 10. [Grenoble INP-UGA-WMM7AM08] Applied probability and statistics
 11. [Grenoble INP-UGA-WMM9AM77] Learning, probabilities and causality
 
-### Data Science
+### Data Science ~ AI (DS-AI)
 
 1. [DGIST-BE202] Introduction to Data Science
 2. [DGIST-BE201] Artificial Intelligence Basics
 3. [DGIST-MECH307] Introduction to Artificial Intelligence
+4. [DGIST-CSE302] Introduction to Machine Learning
+5. [DGIST-CSE402] Reinforcement learning
 
-### CS
+### Computer Science (CS)
 
 1. [DGIST-BE101a] Introduction to Programming
 2. [DGIST-CSE202] Discrete Mathematics
-3. [DGIST-CSE201] Object-Oriented Programming
-4. [Grenoble INP-UGA-WMM7AM10] Object-Oriented & software design
+3. [DGIST-CSE203] Data Structure
+4. [DGIST-CSE201] Object-Oriented Programming
+5. [Grenoble INP-UGA-WMM7AM10] Object-Oriented & software design
 
-### Mathematics
+### Mathematics (Math)
 
 1. [DGIST-BS102] Applied Calculus and Differential Equations
 2. [DGIST-BS101] Multivariable Calculus
@@ -104,7 +107,7 @@ The coursework is organized into three foundational pillars (Stat, AI and Math) 
 6. [SNU-3341.201 001] Introduction to Mathematical  Analysis l
 7. [DGIST-TP310] Modern Algebra
 
-### Finance
+### Finance (Fin)
 
 1. [DGIST-HSS101] Introduction to Economics
 2. [SNU-212.204 001] Introductory Statistics for Economists
